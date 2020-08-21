@@ -13,6 +13,7 @@
 		DE350C2624EFCF4000F20068 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE350C2424EFCF4000F20068 /* Main.storyboard */; };
 		DE350C2824EFCF4200F20068 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE350C2724EFCF4200F20068 /* Assets.xcassets */; };
 		DE350C2B24EFCF4200F20068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE350C2924EFCF4200F20068 /* LaunchScreen.storyboard */; };
+		DE350C3324EFD2C400F20068 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE350C3224EFD2C400F20068 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DE350C2724EFCF4200F20068 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE350C2A24EFCF4200F20068 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE350C2C24EFCF4200F20068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE350C3224EFD2C400F20068 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DE350C1E24EFCF4000F20068 /* AppDelegate.swift */,
 				DE350C2024EFCF4000F20068 /* SceneDelegate.swift */,
 				DE350C2224EFCF4000F20068 /* ViewController.swift */,
+				DE350C3224EFD2C400F20068 /* TableViewCell.swift */,
 				DE350C2424EFCF4000F20068 /* Main.storyboard */,
 				DE350C2724EFCF4200F20068 /* Assets.xcassets */,
 				DE350C2924EFCF4200F20068 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE350C2324EFCF4000F20068 /* ViewController.swift in Sources */,
+				DE350C3324EFD2C400F20068 /* TableViewCell.swift in Sources */,
 				DE350C1F24EFCF4000F20068 /* AppDelegate.swift in Sources */,
 				DE350C2124EFCF4000F20068 /* SceneDelegate.swift in Sources */,
 			);
