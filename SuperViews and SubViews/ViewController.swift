@@ -34,7 +34,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         v[0].backgroundColor = .green //Change UIView color
         print(v)
         let l = v[0].subviews
-        print(l)
+        print(l) //This is Label
         l[0].backgroundColor = .yellow
         print(items.count)
         _ = items[1]
